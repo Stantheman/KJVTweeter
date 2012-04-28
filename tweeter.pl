@@ -14,10 +14,10 @@ my $password = 'password';
 my $twitter = Net::Twitter->new(
     {
 		traits              => [qw/API::REST OAuth/],
-	    consumer_key        => 'key1',
-    	consumer_secret     => 'secret1',
-    	access_token        => 'token1',
-    	access_token_secret => 'secret2',
+		consumer_key        => 'key1',
+		consumer_secret     => 'secret1',
+		access_token        => 'token1',
+		access_token_secret => 'secret2',
     }
 ); 
 
