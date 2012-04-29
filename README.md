@@ -3,7 +3,7 @@ KJV Tweeter
 
 KJVTweeter takes every tweetable verse from the King James Version translation of the Bible and tweets it. The source file is available here: [http://av1611.com/misc/KJV.zip](http://av1611.com/misc/KJV.zip)
 
-This was originally hacked together with some perl and bash one-liners. I made it a tiny more presentable because I think it's a neat project. You can follow the live version of this code online at [https://twitter.com/#!/kjvtweeter](KJVTweeter)
+This was originally hacked together with some perl and bash one-liners. I made it a tiny more presentable because I think it's a neat project. You can follow the live version of this code online at https://twitter.com/#!/KJVtweeter
 
 Initial Setup
 -------------
