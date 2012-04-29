@@ -12,7 +12,7 @@ while (my $line = <>) {
 		next;
 	}
 	
-	push @text, "$oldline $line" if length($verse) < 141;
+	push @text, "$oldline $line" if length("$oldline $line") < 141;
 }
 
 print @text;
