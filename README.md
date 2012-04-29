@@ -10,7 +10,7 @@ Initial Setup
 
 ````bash
 wget http://av1611.com/misc/KJV.zip
-unzip -p KJV.zip | dos2unix | ./parser.pl | sort -R -o random_bible.txt 
+unzip -p KJV.zip | ./parser.pl | sort -R -o random_bible.txt 
 ````
 
 From here, you'd add a cronjob to run the tweet_bible.sh script at whatever interval you want. 
